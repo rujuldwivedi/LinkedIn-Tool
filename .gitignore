@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+ms-playwright/
+debug_screens/
+data/
+debug/
+debugger/
+linkedin_data.json
